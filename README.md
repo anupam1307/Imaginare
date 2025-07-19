@@ -7,7 +7,7 @@ Designed with simplicity in mind, this is a great starting point for beginners i
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ├── flux_run.py                # Generate images using FLUX diffusion model
@@ -19,18 +19,18 @@ Designed with simplicity in mind, this is a great starting point for beginners i
 
 ---
 
-## 🛠️ Features
+##  Features
 
-- 🔁 **Automated image generation** for different categories using prompts.
-- 🎨 **Post-processing** using `PIL` to darken and blur images.
-- 🤖 Uses state-of-the-art models like:
+-  **Automated image generation** for different categories using prompts.
+-  **Post-processing** using `PIL` to darken and blur images.
+-  Uses state-of-the-art models like:
   - `black-forest-labs/FLUX.1-dev`
   - `stabilityai/stable-diffusion-xl-base-1.0`
-- 🧠 Uses HuggingFace `diffusers`, `transformers`, and other modern ML tools.
+-  Uses HuggingFace `diffusers`, `transformers`, and other modern ML tools.
 
 ---
 
-## ⚙️ Requirements
+##  Requirements
 
 Install all the required libraries:
 
@@ -40,7 +40,7 @@ pip install torch diffusers transformers tomesd optimum pytorch pillow pyyaml
 
 ---
 
-## 📂 Input Files
+##  Input Files
 
 - `config_flux.yml`: YAML file with prompts grouped by categories for `flux_run.py`.
 - `config_new.yml`: YAML file with prompts grouped by categories for `sdxl_run.py`.
@@ -59,9 +59,9 @@ categories:
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
-### 🔵 1. Using the Stable Diffusion XL model
+###  1. Using the Stable Diffusion XL model
 
 This script uses **Stability AI's** SDXL to generate and save images.
 
@@ -75,12 +75,12 @@ python sdxl_run.py
 - Saves output to:
 
 ```
-/new-zpool/Vision/content-creation/Vedant/video/output_category_product6/
+/Video/SDXL_Output/
 ```
 
 ---
 
-### 🟣 2. Using the FLUX model
+###  2. Using the FLUX model
 
 This script uses **FLUX.1-dev**, a new image generation model.
 
@@ -93,12 +93,12 @@ python flux_run.py
 - Generates and saves processed images in:
 
 ```
-/new-zpool/Vision/content-creation/Vedant/video/output_category_product_jsr_hmd6/
+/Video/Flux_Output/
 ```
 
 ---
 
-## 🎨 Post-Processing Logic (`make_dark.py`)
+##  Post-Processing Logic (`make_dark.py`)
 
 Images are post-processed using two steps:
 
@@ -115,7 +115,7 @@ processed = darken_and_blur_image(image, darkness_factor=0.5, blur_radius=5)
 
 ---
 
-## 🧑‍💻 For Beginners
+##  For Beginners
 
 No deep ML knowledge needed! Just:
 
@@ -125,7 +125,7 @@ No deep ML knowledge needed! Just:
 
 ---
 
-## 📌 Notes
+##  Notes
 
 - The script assumes GPU support (for best performance).
 - Use `torch_dtype=torch.float16` or `bfloat16` depending on your hardware.
@@ -133,6 +133,4 @@ No deep ML knowledge needed! Just:
 
 ---
 
-## 📬 Contact
 
-Feel free to raise issues or ask questions if you’re stuck. This project is beginner-friendly and great for learning image generation workflows.
