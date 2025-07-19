@@ -58,7 +58,7 @@ pipe.enable_model_cpu_offload()
 n_steps = 50
 darkness_factor=0.5
 blur_radius=5
-base_dir = "/new-zpool/Vision/content-creation/Vedant/video/output_category_product_jsr_hmd6"
+base_dir = "/Video/Output"
 os.makedirs(base_dir, exist_ok=True)
 # Generate images for each category
 for category, prompts in categories.items():
