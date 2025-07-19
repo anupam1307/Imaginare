@@ -1,0 +1,41 @@
+# config.yml
+categories:
+  har_har_mahadev:
+    - "A magnificent depiction of Lord Shiva seated in deep meditation atop the snow-clad peaks of Mount Kailash. His serene face radiates divine energy, with long, flowing matted hair adorned with the crescent moon and the sacred Ganga cascading down. The sky behind him glows with celestial hues, creating an aura of transcendence. Serpents coil around his neck, and his powerful trident stands firmly beside him, glowing with mystical energy. In the background, cosmic galaxies swirl in harmony, symbolizing the infinite universe, while the sacred bull, Nandi, rests peacefully at his feet, embodying devotion and strength."
+    - "A dynamic and awe-inspiring image of Lord Shiva in his fierce Rudra form, dancing the cosmic Tandava. His powerful form radiates divine fire, with wild locks flowing as he moves with unrestrained energy. His third eye blazes with intensity, casting a celestial glow across the darkened sky. Sparks of energy crackle around him as his damaru (drum) reverberates, symbolizing the rhythm of creation and destruction. The backdrop is filled with swirling cosmic patterns, divine flames, and celestial beings watching in reverence, encapsulating the raw power and majesty of Mahadev’s cosmic dance."
+    
+  jai_shree_ram:
+    - "A glorious depiction of Lord Rama standing tall with his divine bow and arrow, his face radiating wisdom and unwavering righteousness. He is adorned in regal garments, his aura glowing with divine brilliance. The backdrop features the golden city of Ayodhya bathed in a heavenly light, symbolizing prosperity and dharma. Hanuman and his vanara sena stand loyally by his side, their devotion evident in their eyes. The sky above shimmers with celestial blessings, as divine chants of 'Jai Shree Ram' echo through the sacred atmosphere, filling the scene with reverence and power."
+    - "An electrifying battle scene showcasing Lord Rama in the final moments of his epic confrontation with the demon king Ravana. Rama, glowing with divine energy, releases his celestial arrow, which radiates golden light as it speeds towards Ravana. The battlefield is charged with an intense aura, with warriors watching in awe. Hanuman stands ready, his devotion unwavering. The sky is illuminated by divine energy, and the forces of dharma and adharma clash in a grand spectacle, signifying the victory of righteousness over evil."
+    
+  i_love_you:
+    - "A romantic sunset by the beach where a couple sits hand in hand, their silhouettes glowing against the golden hues of the setting sun. Gentle waves kiss the shore, and a soft breeze carries the whispers of love. The sky is painted in shades of pink and orange, reflecting their warmth and affection. Heart-shaped clouds float above, symbolizing their unbreakable bond. In the distance, a flock of birds flies together, mirroring their journey of love and togetherness."
+    - "A cozy candlelit dinner scene, where two lovers gaze into each other's eyes, their hands intertwined over a beautifully set table. The flickering candlelight casts a warm glow, highlighting their smiles and deep connection. A violinist plays in the background, adding a touch of romance to the intimate atmosphere. Outside the window, the city lights twinkle like stars, complementing the magic of their love-filled evening."
+
+  good_morning:
+    - "A breathtaking sunrise over rolling green hills, with golden rays spreading warmth across the dew-kissed landscape. Birds chirp melodiously as they take flight, welcoming the new day with joy. A steaming cup of coffee sits on a wooden balcony, overlooking a peaceful valley, embodying the perfect start to a fresh and positive morning."
+    - "A peaceful lakeside scene where the first light of dawn reflects off the calm water. A small wooden boat floats gently as mist rises, creating a dreamy atmosphere. In the distance, a quaint cottage with smoke rising from its chimney signals the beginning of a new, hopeful day."
+
+  good_night:
+    - "A tranquil night sky illuminated by a glowing full moon and countless twinkling stars. Below, a quiet countryside sleeps under a cozy blanket of darkness, with fireflies dancing in the cool night air. A hammock sways gently between two trees, offering the perfect spot to rest and dream under the celestial wonders above."
+    - "A cozy bedroom scene where soft fairy lights cast a warm glow on the walls. A fluffy cat sleeps curled up on the bed, while a book lies open beside a steaming cup of herbal tea. Outside, the city lights shimmer softly, creating a sense of peace and relaxation before drifting into a deep, restful sleep."
+
+  take_care:
+    - "A warm and comforting scene of a person wrapped in a cozy blanket, holding a cup of hot soup, while their loved one gently places a reassuring hand on their shoulder. The soft glow of a fireplace flickers in the background, filling the space with warmth and care, reminding them that they are not alone."
+    - "A lush green park where two friends walk side by side, engaged in a heartfelt conversation. The sun filters through the trees, casting dappled light on the path as a gentle breeze carries the scent of blooming flowers. One friend hands the other a small bouquet, symbolizing their deep concern and care for each other."
+
+  happy_birthday:
+    - "A vibrant birthday celebration with colorful balloons floating in the air, confetti raining down, and a beautifully decorated cake at the center of a festive table. Friends and family gather around, their faces glowing with joy as they cheer for the birthday star. Candles flicker atop the cake, ready to be blown out with a heartfelt wish."
+    - "A magical night-time birthday party under the twinkling stars, with fairy lights wrapped around trees and a long banquet table filled with delicious treats. A group of friends surprises the birthday person with a grand fireworks display, lighting up the sky in dazzling colors. The air is filled with laughter, music, and the warmth of love and friendship."
+
+  happy_anniversary:
+    - "A beautifully set dinner table under a canopy of twinkling fairy lights, surrounded by blooming roses. A couple holds hands, their eyes reflecting years of love and togetherness. A violinist plays a soft romantic tune in the background, as the golden candlelight dances across their smiling faces, celebrating another year of cherished memories."
+    - "A dreamy getaway scene where a couple walks along a quiet beach, leaving footprints in the soft sand. The waves gently kiss the shore as the sky turns into shades of pink and lavender, mirroring the deep love they share. In the distance, a heart-shaped lantern floats into the night sky, carrying their wishes for many more years of happiness."
+
+  sorry:
+    - "A heartfelt moment where a person stands with a small bouquet of white flowers, their face filled with genuine remorse. The soft rain drizzles around them, adding to the emotional weight of the moment. Their eyes express an unspoken apology, hoping for forgiveness and a chance to mend the bond."
+    - "A touching scene of two friends sitting on a park bench, one extending a handwritten note that reads 'I'm sorry' with a hopeful smile. The golden hues of sunset cast a warm light around them, symbolizing a new beginning and the strength of their friendship despite past misunderstandings."
+
+  thank_you:
+    - "A heartfelt moment where a person hands a beautifully wrapped gift to another, their faces glowing with gratitude and appreciation. The background is adorned with twinkling fairy lights, adding warmth to the moment as they share a genuine hug, sealing their bond with heartfelt thanks."
+    - "A scenic garden where a young child hands an elderly person a bouquet of freshly picked flowers. Their eyes sparkle with gratitude, and the gentle breeze carries the soft laughter and warmth of the moment, symbolizing the beauty of kindness and appreciation."
