@@ -36,7 +36,7 @@ for category, prompts in categories.items():
     category_dir = os.path.join(base_dir, category)
     os.makedirs(category_dir, exist_ok=True)
     
-    # print(f"Processing category '{category}' with prompt: {prompt}")
+    print(f"Processing category '{category}' with prompt: {prompt}")
     
     for i in range(20):
         prompt = random.choice(prompts)
